@@ -12,13 +12,11 @@
 ![DataScientest - Data Analyst](https://img.shields.io/badge/DataScientest-Data%20Analyst%20%F0%9F%94%A5-2d6bdf?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K)
 
 
-**Data Analyst** titre RNCP niveau 7 – Bac+5
+- **Bloc en cours** : Data Analyst (6 modules validés)
+- **Module en cours** : Base de données
+- **Blocs à venir** : Data Product Manager • Marketing Digital Data & IA
 
-- **Blocs validés** : 6 modules Data Analyst  
-- **En cours** : Machine Learning Engineer  
-- **À venir** : Data Product Manager • Marketing Digital Data & IA
-
-**Objectif final** : titre RNCP 39591 « Concepteur Développeur en Intelligence Artificielle »
+**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5« Concepteur Développeur en Intelligence Artificielle »
 
 Type d'emplois accessibles :
 Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data*
