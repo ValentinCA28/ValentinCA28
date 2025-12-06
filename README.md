@@ -21,7 +21,9 @@
 **Objectif final** : titre RNCP 39591 « Concepteur Développeur en Intelligence Artificielle »
 
 Type d'emplois accessibles :
-Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data
+Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data*
+
+*Source france compétences*
 
 ### Certifications DataScientest
 
