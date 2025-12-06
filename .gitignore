@@ -1,0 +1,5 @@
+# Exclude PDF files
+*.pdf
+
+# Exclude the entire Data_Scientest folder
+Data_Scientest/
