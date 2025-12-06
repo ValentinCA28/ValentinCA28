@@ -1,5 +1,1 @@
-# Exclude PDF files
-*.pdf
-
-# Exclude the entire Data_Scientest folder
-Data_Scientest/
+# Add files or folders to exclude from Git here if needed

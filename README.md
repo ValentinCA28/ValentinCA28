@@ -13,12 +13,12 @@
 
 | Certification                                    | Lien direct                                      |
 |--------------------------------------------------|--------------------------------------------------|
-| Introduction à l'analyse des données             | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/raw/main/Data_Scientest/Introduction%20%C3%A0%20l%27analyse%20des%20donn%C3%A9es.pdf) |
-| Python for Data Analysis                         | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/raw/main/Data_Scientest/Python%20for%20Data%20Analysis.pdf) |
-| Introduction to Data Visualization and Best Practices | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/raw/main/Data_Scientest/Introduction%20to%20Data%20Visualization%20and%20Best%20Practices.pdf) |
-| Data Visualization with Matplotlib               | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/raw/main/Data_Scientest/Data%20Visualization%20with%20Matplotlib.pdf) |
-| Data Visualization with Seaborn                  | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/raw/main/Data_Scientest/Data%20Visualization%20with%20Seaborn.pdf) |
-| Introduction to Databases for Data Analyst       | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/raw/main/Data_Scientest/Introduction%20to%20Databases%20for%20Data%20Analyst.pdf) |
+| Introduction à l'analyse des données             | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20%C3%A0%20l%27analyse%20des%20donn%C3%A9es.pdf) |
+| Python for Data Analysis                         | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Python%20for%20Data%20Analysis.pdf) |
+| Introduction to Data Visualization and Best Practices | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Data%20Visualization%20and%20Best%20Practices.pdf) |
+| Data Visualization with Matplotlib               | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Matplotlib.pdf) |
+| Data Visualization with Seaborn                  | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Seaborn.pdf) |
+| Introduction to Databases for Data Analyst       | [📄 Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Databases%20for%20Data%20Analyst.pdf) |
 
 *Toutes les certifications sont vérifiables via les liens directs ci-dessus*
 
