@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<img src="https://github.com/ValentinCA28.png" width="180" align="right" style="border-radius:50%;"/>
-
 # Hey ! Moi c’est Valentin
 
-Développeur Fullstack • Indie maker • Music & Space addict
 
 **Actuellement** : React, Node.js, TypeScript, Tailwind  
 **Intéressé par** : IA, Web3, automation, outils dev  
