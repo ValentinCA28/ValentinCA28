@@ -20,8 +20,12 @@
 | Data Visualization with Matplotlib                   |           ✅           | [Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Matplotlib.pdf) |
 | Data Visualization with Seaborn                      |           ✅           | [Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Seaborn.pdf) |
 | Introduction to Databases for Data Analysts          |           ✅           | [Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Databases%20for%20Data%20Analyst.pdf) |
-| **Machine Learning Engineer**                           |       En cours       | –                                                                   |
-|                                                         |                          |                                            
+| **Base de données**                                  |       En cours       | 
+| Business Intelligence                                |                      | 
+| Base de données avancées                             |                      | 
+| Analyse du Web et du texte                           |                      | 
+| Machine Learning                                     |                      | 
+| Soutenance de projet                                 |                      | 
 
 *Toutes les certifications sont validées et vérifiables via les liens directs ci-dessus*
 
