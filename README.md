@@ -16,7 +16,7 @@
 - **Module en cours** : Base de données
 - **Blocs à venir** : Data Product Manager • Marketing Digital Data & IA
 
-**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5« Concepteur Développeur en Intelligence Artificielle »
+**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5 « Concepteur Développeur en Intelligence Artificielle »
 
 Type d'emplois accessibles :
 Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data*
