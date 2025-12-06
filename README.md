@@ -32,7 +32,7 @@
 
 **Objectif final** : titre RNCP 39591 niveau 7 – Bac+5 « Concepteur Développeur en Intelligence Artificielle »
 
-Type d'emplois accessibles :
+*Type d'emplois accessibles :
 Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data*
 
 *Source : https://www.francecompetences.fr/recherche/rncp/39591/#anchor2*
