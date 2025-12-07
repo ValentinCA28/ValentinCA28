@@ -33,20 +33,24 @@ L’objectif : acquérir une vraie culture dev et une solide maîtrise du code (
 ![Holberton School - Développeur Web / Web Mobile](https://img.shields.io/badge/HOLBERTON%20SCHOOL-D%C3%A9veloppeur%20Web%20%2F%20Web%20Mobile-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=c41e3a&color=36393f)
 
 **Description** :  
+Lors du premier sprint, plongez dans les fondamentaux : programmation en C et Unix, algorithmes, graphique, reverse engineering et protocoles de sécurité.  
 
+Le sprint suivant vous fait découvrir les langages de haut niveau, les bases de données et le front-end, avant de concevoir votre première application web complète.  
+
+Enfin, le dernier sprint met l'accent sur l'automatisation, l'évolutivité et les standards industriels. À la fin de la formation, vous maîtrisez le développement web, l'algorithmie et la gestion de projets.
 
 **Techno** : Shell, C, Linux, Python, HTML, CSS, SQL, MySQL, JavaScript, DevOps, Jenkins, Ansible, Docker. Outils : Emacs, Vi, Git.
 
-- **Bloc en cours** : Fondamentaux de la programmation (sprint 1 validé)
-- **Sprint en cours** : Développement web et bases de données (sprint 2)
-- **Sprints à venir** : Automatisation et projet final (sprint 3)
+- **Sprint en cours** : Fondamentaux de la programmation
+- **Sprint à venir** : Développement web et bases de données
+- **Sprintsà venir** : Automatisation et projet final
 
-**Objectif final** : Titre RNCP 37674 niveau 5 – Développeur web & web mobile
+**Objectif final** : Titre RNCP 37674 niveau 5 
+→ [Développeur web & web mobile](https://www.francecompetences.fr/recherche/rncp/37674/)
 
 *Type d'emplois accessibles :  
 Développeur web full-stack - Développeur mobile - Intégrateur web - Développeur front-end / back-end - Chef de projet web*
 
-*Source : https://www.francecompetences.fr/recherche/rncp/37674/*
 
 ![DataScientest - Data Analyst](https://img.shields.io/badge/DATASCIENTEST-DATA%20ANALYST-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=2d6bdf&color=36393f)
 
@@ -54,12 +58,15 @@ Développeur web full-stack - Développeur mobile - Intégrateur web - Développ
 - **Module en cours** : Base de données
 - **Blocs à venir** : Data Product Manager • Marketing Digital Data & IA
 
-**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5 « Concepteur Développeur en Intelligence Artificielle »
+
+
+**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5  
+→ [Concepteur Développeur en Intelligence Artificielle](https://www.francecompetences.fr/recherche/rncp/39591/)
 
 *Type d'emplois accessibles :
 Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data*
 
-*Source : https://www.francecompetences.fr/recherche/rncp/39591/#anchor2*
+
 
 ### Soutenance
 
@@ -68,11 +75,12 @@ Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Dat
 L’objectif de ce projet est d’analyser et/ou d’estimer les temps de réponse et de mobilisation de la Brigade des Pompiers de Londres. La brigade des pompiers de Londres est le service d'incendie et de sauvetage le plus actif du Royaume-Uni  et l'une des plus grandes organisations de lutte contre l'incendie et de sauvetage au monde.
 
 
-[![Carte interactive](https://img.shields.io/badge/Carte_interactive-🔍-blue?style=flat&logo=leaflet&logoColor=white)](https://valentinca28.github.io/Data/)
+[![Carte interactive](https://img.shields.io/badge/Carte_interactive-🔍-blue?style=flat&logo=leaflet&logoColor=white)](https://valentinca28.github.io/Data/)  
+*(Source code : [github.com/ValentinCA28/Data](https://github.com/ValentinCA28/Data))*
 
 Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, visualisations interactives en Leaflet.js)
 
-*(Source code : [github.com/ValentinCA28/Data](https://github.com/ValentinCA28/Data))*
+
 
 *Source : https://data.london.gov.uk/dataset/*
 
