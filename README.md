@@ -71,13 +71,10 @@ Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Dat
 
 L’objectif de ce projet est d’analyser et/ou d’estimer les temps de réponse et de mobilisation de la Brigade des Pompiers de Londres. La brigade des pompiers de Londres est le service d'incendie et de sauvetage le plus actif du Royaume-Uni  et l'une des plus grandes organisations de lutte contre l'incendie et de sauvetage au monde.
 
+Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, visualisations interactives en Leaflet.js)<br>
 
 [![Carte interactive](https://img.shields.io/badge/Carte_interactive-🔍-blue?style=flat&logo=leaflet&logoColor=white)](https://valentinca28.github.io/Data/)  
 *(Source code : [github.com/ValentinCA28/Data](https://github.com/ValentinCA28/Data))*
-
-Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, visualisations interactives en Leaflet.js)
-
-
 
 *Source : https://data.london.gov.uk/dataset/*
 
