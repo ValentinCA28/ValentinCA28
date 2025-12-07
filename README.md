@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey ! Moi c’est Valentin
 
 
