@@ -26,7 +26,7 @@
 ### Etudes en cours
 J'ai décidé d'associer le progamme d'Holberton afin de renforcer mes connaisances en code pour compléter mes études en Data Analyst / Business Analyst. 
 
-L’objectif : acquérir une vraie culture dev et une solide maîtrise du code (C, Python, bases de données, back-end, DevOps, Git, Linux…) pour être plus autonome, mieux comprendre les pipelines techniques et pouvoir construire moi-même les outils dont j’ai besoin.
+L’objectif : acquérir une vraie culture dev et une solide maîtrise du code (C, Python, bases de données, back-end, DevOps, Git, Linux…) pour être plus autonome, mieux comprendre les pipelines techniques et pouvoir construire moi-même les outils dont j’ai besoin.<br><br>
 
 ![Holberton School - Développeur Web / Web Mobile](https://img.shields.io/badge/HOLBERTON%20SCHOOL-D%C3%A9veloppeur%20Web%20%2F%20Web%20Mobile-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=c41e3a&color=36393f)
 
@@ -47,18 +47,17 @@ Enfin, le dernier sprint met l'accent sur l'automatisation, l'évolutivité et l
 → [Développeur web & web mobile](https://www.francecompetences.fr/recherche/rncp/37674/)
 
 *Type d'emplois accessibles :  
-Développeur web full-stack - Développeur mobile - Intégrateur web - Développeur front-end / back-end - Chef de projet web*
+Développeur web full-stack - Développeur mobile - Intégrateur web - Développeur front-end / back-end - Chef de projet web*<br><br>
 
 
 ![DataScientest - Data Analyst](https://img.shields.io/badge/DATASCIENTEST-DATA%20ANALYST-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=2d6bdf&color=36393f)
 
-- **Bloc en cours** : Data Analyst (6 modules validés)
+- **Bloc en cours** : [Data Analyst](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/AUG25%20PP%20CDA%20-%20Parcours%20Pédagogique.pdf) (6 modules validés)
 - **Module en cours** : Base de données
-- **Blocs à venir** : Data Product Manager • Marketing Digital Data & IA
+- **Blocs à venir** : [Data Product Manager](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/39591-FR_Syllabus%2BData%2BProduct%2BManager%2B(Business%2BAnlayst)_230925.pdf) • [Marketing Digital Data & IA](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/FR_Syllabus%2BMarketing%2BDigital%2BData%2B%26%2BIA_02092025.pdf)
 
 
-
-**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5  
+**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5
 → [Concepteur Développeur en Intelligence Artificielle](https://www.francecompetences.fr/recherche/rncp/39591/)
 
 *Type d'emplois accessibles :
@@ -109,7 +108,5 @@ Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, vi
 [![holbertons](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCA28&repo=holbertons&theme=dark)](https://github.com/ValentinCA28/holbertons)
 [![Rexiaa](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCA28&repo=Rexiaa&theme=dark)](https://github.com/ValentinCA28/Rexiaa)
 
-### Stats (juste pour le fun)
-![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinCA28&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 → Contact : valentin.planchon@yahoo.fr
