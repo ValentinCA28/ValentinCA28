@@ -93,7 +93,7 @@ Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, vi
 | Introduction to Databases for Data Analysts          |           ✅           | [Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Databases%20for%20Data%20Analyst.pdf) |
 | SQL for Data Science                                 |           ✅           | [Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/SQL%20for%20Data%20Science.pdf) |
 | Data API Fundamentals                                |           ✅           | [Voir le PDF](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20API%20Fundamentals.pdf) |
-| **Business Intelligence**                            |                      | 
+| **Business Intelligence**                            |        En cours      | 
 | Base de données avancées                             |                      | 
 | Analyse du Web et du texte                           |                      | 
 | Machine Learning                                     |                      | 
