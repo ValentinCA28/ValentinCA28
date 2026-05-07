@@ -81,40 +81,40 @@ Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, vi
 
 ### Parcours Data Analyst — Sprints
 
-**Prérequis** ✅
+✅ **Prérequis**
 - [Premiers pas sur la plateforme DataScientest](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Premiers%20pas%20sur%20la%20plateforme%20DataScientest.pdf)
 - [Introduction à l'analyse des données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20%C3%A0%20l%27analyse%20des%20donn%C3%A9es.pdf)
 
-**Sprint 1 : Programmer avec Python** *(août – octobre 2025)* ✅
+✅ **Sprint 1 : Programmer avec Python**
 - [Python pour l'Analyse de Données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Python%20for%20Data%20Analysis.pdf)
 - [Statistiques Exploratoires avec Python](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Exploratory%20Satistics%20with%20Python.pdf)
 
-**Sprint 2 : DataViz** *(octobre – novembre 2025)* ✅
+✅ **Sprint 2 : DataViz**
 - [DataViz Bonnes Pratiques](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Data%20Visualization%20and%20Best%20Practices.pdf)
 - [DataViz avec Matplotlib](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Matplotlib.pdf)
 - [DataViz avec Seaborn](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Seaborn.pdf)
 
-**Sprint 3 : Base de données** *(novembre – décembre 2025)* ✅
+✅ **Sprint 3 : Base de données**
 - [Introduction aux Bases de Données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Databases%20for%20Data%20Analyst.pdf)
 - [Langage SQL](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/SQL%20for%20Data%20Science.pdf)
 - [Fondamentaux des APIs de données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20API%20Fundamentals.pdf)
 
-**Sprint 4 : BI** *(décembre 2025 – janvier 2026)* ✅
+✅ **Sprint 4 : Business Intelligence**
 - [Introduction Business Intelligence](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Introduction%20to%20Business%20intelligence.pdf)
 - [Power BI](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Power%20Bi.pdf)
 - [Looker Studio](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Looker%20Studio.pdf)
 - [Google Sheets](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Google%20Sheets.pdf)
 
-**Sprint 5 : Bases de données avancées** *(janvier – février 2026)* ✅
+✅ **Sprint 5 : Bases de données avancées**
 - [Les bases du cloud pour l'analyste de données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Les%20bases%20du%20cloud%20pour%20l%27analyse%20de%20donn%C3%A9es.pdf)
 - [Approfondissement SQL](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20SQL%20Deepening.pdf)
 
-**Sprint 6 : Analyse du Web et du texte** *(février – mars 2026)* ✅
+✅ **Sprint 6 : Analyse du Web et du texte**
 - [Introduction à l'analyse du web et du texte](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Introduction%20to%20web%20and%20text%20analysis.pdf)
 - [Web Analytics](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Web%20Analytics.pdf)
 - [Text Mining](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Text%20Mining%20for%20Data%20Analysts.pdf)
 
-**Sprint 7 : Machine Learning** *(mars – mai 2026)* ✅
+✅ **Sprint 7 : Machine Learning**
 - [Machine Learning avec sklearn](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Machine%20Learning%20with%20sklearn.pdf)
 
 *Toutes les certifications sont validées et vérifiables via les liens directs ci-dessus*
