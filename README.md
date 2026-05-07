@@ -51,6 +51,7 @@ Développeur web full-stack - Développeur mobile - Intégrateur web - Développ
 
 
 ![Liora - Data Analyst](https://img.shields.io/badge/LIORA-DATA%20ANALYST-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=e67e22&color=36393f)
+*(anciennement DataScientest)*
 
 - **Bloc en cours** : [Data Analyst](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/AUG25%20PP%20CDA%20-%20Parcours%20Pédagogique.pdf) ✅ (7 sprints)
 - **Blocs à venir** : [Data Product Manager](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/39591-FR_Syllabus%2BData%2BProduct%2BManager%2B(Business%2BAnlayst)_230925.pdf) • [Marketing Digital Data & IA](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/FR_Syllabus%2BMarketing%2BDigital%2BData%2B%26%2BIA_02092025.pdf)
