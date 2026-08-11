@@ -1,0 +1,31 @@
+name: generate 3D contribution calendar
+
+on:
+  schedule:
+    # Régénère l'image toutes les 24h
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "chore: regenerate 3D contribution calendar" || echo "nothing to commit"
+          git push
