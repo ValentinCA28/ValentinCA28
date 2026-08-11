@@ -23,10 +23,12 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Recolor radar & contributions count to green
+      - name: Recolor to green & loop the rise animation
         run: |
           f=profile-3d-contrib/profile-night-green.svg
           sed -i 's/#fcb32c/#39d353/g; s/rgb(255,200,55)/#39d353/g' "$f"
+          # Boucle l'animation : les barres montent en continu (repeatCount 1 -> indefinite)
+          sed -i 's/repeatCount="1"/repeatCount="indefinite"/g' "$f"
 
       - name: Commit & Push
         run: |

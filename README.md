@@ -93,11 +93,6 @@ Le poste de commande de tout l'écosystème — un tableau de bord d'administrat
 
 <div align="center">
 
-<!-- Cartes de stats — générées par .github/workflows/profile-summary-cards.yml
-     (les images apparaissent après le 1er run de l'action, qui commite le dossier profile-summary-card-output/) -->
-<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-summary-card-output/tokyonight/3-stats.svg" height="200"/>
-<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200"/>
-
 <!-- Calendrier de contributions 3D isométrique — généré par .github/workflows/profile-3d.yml
      (l'image apparaît après le 1er run de l'action, qui commite le dossier profile-3d-contrib/) -->
 <img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-3d-contrib/profile-night-green.svg" width="95%" alt="Calendrier de contributions 3D isométrique"/>
