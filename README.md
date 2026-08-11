@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:F97316,100:FACC15&height=200&section=header&text=Valentin%20Planchon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20web%20%26%20Data%20Analyst%20%C2%B7%20Fondateur%20de%20Huva%20Tech&descSize=16&descAlignY=58&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:F97316,100:FACC15&height=200&section=header&text=Valentin%20Planchon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20web%20%C2%B7%20Data%20Analyst%20%C2%B7%20Fondateur%20de%20Huva%20Tech&descSize=16&descAlignY=58&descColor=ffffff)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Je+construis+les+outils+dont+j%27ai+besoin;Du+mobile+terrain+au+back-office+web;Data+brute+%E2%86%92+l%27app+qui+l%27exploite" />
 
@@ -99,7 +99,7 @@ Le poste de commande de tout l'écosystème — un tableau de bord d'administrat
 
 <!-- Calendrier de contributions 3D isométrique — généré par .github/workflows/profile-3d.yml
      (l'image apparaît après le 1er run de l'action, qui commite le dossier profile-3d-contrib/) -->
-<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Calendrier de contributions 3D isométrique"/>
+<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-3d-contrib/profile-night-green.svg" width="95%" alt="Calendrier de contributions 3D isométrique"/>
 
 
 </div>
