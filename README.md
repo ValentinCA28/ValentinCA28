@@ -1,12 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:F97316,100:FACC15&height=200&section=header&text=Valentin%20Planchon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20web%20%C2%B7%20Data%20Analyst%20%C2%B7%20Fondateur%20de%20Huva%20Tech&descSize=16&descAlignY=58&descColor=ffffff)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Je+construis+les+outils+dont+j%27ai+besoin;Du+mobile+terrain+au+back-office+web;Data+brute+%E2%86%92+l%27app+qui+l%27exploite" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:F97316,100:FACC15&height=200&section=header&text=Valentin%20Planchon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20web%20%C2%B7%20Data%20Analyst%20%C2%B7%20Co-fondateur%20de%20Huva%20Tech&descSize=16&descAlignY=58&descColor=ffffff)
 
 <a href="https://valentin-planchon.com"><img src="https://img.shields.io/badge/Portfolio-valentin--planchon.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://huva-tech.com"><img src="https://img.shields.io/badge/🚀_Huva_Tech-Studio_de_dev-F97316?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/valentin-planchon-50804114a"><img src="https://img.shields.io/badge/LinkedIn-Valentin_Planchon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:valentin.planchon@yahoo.fr"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -15,7 +14,7 @@
 
 ### 👋 À propos
 
-Fondateur de **[Huva Tech](https://huva-tech.com)**, un studio de dev où je conçois sites & applications sur mesure.
+Co-fondateur de **[Huva Tech](https://huva-tech.com)**, un studio de dev où je conçois sites & applications sur mesure.
 Développeur web **full-stack** (React, Node, TypeScript) formé à **Holberton School**, doublé d'un profil **Data Analyst** — pour être autonome de bout en bout, de la donnée brute jusqu'à l'app qui l'exploite.
 
 - 🌍 Lucinges, Haute-Savoie
@@ -94,8 +93,10 @@ Le poste de commande de tout l'écosystème — un tableau de bord d'administrat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=ValentinCA28&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinCA28&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
+<!-- Cartes de stats — générées par .github/workflows/profile-summary-cards.yml
+     (les images apparaissent après le 1er run de l'action, qui commite le dossier profile-summary-card-output/) -->
+<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-summary-card-output/tokyonight/3-stats.svg" height="200"/>
+<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200"/>
 
 <!-- Calendrier de contributions 3D isométrique — généré par .github/workflows/profile-3d.yml
      (l'image apparaît après le 1er run de l'action, qui commite le dossier profile-3d-contrib/) -->
