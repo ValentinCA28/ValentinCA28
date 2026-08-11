@@ -95,7 +95,7 @@ Le poste de commande de tout l'écosystème — un tableau de bord d'administrat
 
 <!-- Calendrier de contributions 3D isométrique — généré par .github/workflows/profile-3d.yml
      (l'image apparaît après le 1er run de l'action, qui commite le dossier profile-3d-contrib/) -->
-<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-3d-contrib/profile-night-green.svg" width="95%" alt="Calendrier de contributions 3D isométrique"/>
+<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-3d-contrib/profile-night-green.svg?v=2" width="95%" alt="Calendrier de contributions 3D isométrique"/>
 
 
 </div>
