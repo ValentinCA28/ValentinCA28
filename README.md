@@ -1,130 +1,107 @@
-# Hey ! Moi c’est Valentin
+<!-- ====================== HEADER ====================== -->
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:F97316,100:FACC15&height=200&section=header&text=Valentin%20Planchon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20web%20%26%20Data%20Analyst%20%C2%B7%20Fondateur%20de%20Huva%20Tech&descSize=16&descAlignY=58&descColor=ffffff)
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Je+construis+les+outils+dont+j%27ai+besoin;Du+mobile+terrain+au+back-office+web;Data+brute+%E2%86%92+l%27app+qui+l%27exploite" />
+
+<a href="https://valentin-planchon.com"><img src="https://img.shields.io/badge/Portfolio-valentin--planchon.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://huva-tech.com"><img src="https://img.shields.io/badge/🚀_Huva_Tech-Studio_de_dev-F97316?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:valentin.planchon@yahoo.fr"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:F97316,100:FACC15&height=3)
+
+### 👋 À propos
+
+Fondateur de **[Huva Tech](https://huva-tech.com)**, un studio de dev où je conçois sites & applications sur mesure.
+Développeur web **full-stack** (React, Node, TypeScript) formé à **Holberton School**, doublé d'un profil **Data Analyst** — pour être autonome de bout en bout, de la donnée brute jusqu'à l'app qui l'exploite.
+
+- 🌍 Lucinges, Haute-Savoie
+- 🚀 Studio de dev → **[huva-tech.com](https://huva-tech.com)**
+- 🧑‍💻 Portfolio → **[valentin-planchon.com](https://valentin-planchon.com)**
+- 💬 IA · Web3 · automation · outils dev
+
+### 🛠️ Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,c,py,postgres,supabase,git&theme=dark&perline=10)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg" height="48" alt="Power BI"/>
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:F97316,100:FACC15&height=3)
+
+### 🚀 Projet phare — l'écosystème CauxVoiturage
+
+Mon projet principal chez **Huva Tech** : une solution de covoiturage locale complète, de l'app terrain jusqu'au poste de pilotage. Conçu et développé de A à Z.
+
+**🚗 CauxVoiturage — application mobile**
+
+L'app pour les usagers du covoiturage du quotidien :
+
+- **🧠 Moteur de matching** — mise en relation trajets ↔ passagers avec **score de pertinence (0–1)** : correspondance origine/destination, fenêtre horaire flexible, prise en charge des trajets **ponctuels et pendulaires** (récurrents multi-jours) avec projection sur chaque occurrence et contrôle des places disponibles
+- **Conducteurs** — trajets ponctuels ou récurrents (jours d'activité, aller-retour automatique, exceptions, suspension), validation des réservations
+- **Passagers** — recherche filtrée, carte interactive, demandes de réservation, vue calendrier des trajets
+- **Sous le capot** — auth Supabase + CAPTCHA Cloudflare Turnstile, géolocalisation temps réel, stockage chiffré des tokens, i18n, iOS & Android
+
+**🖥️ CauxWeb — back-office de gestion**
+
+Le poste de commande de tout l'écosystème — un tableau de bord d'administration complet :
+
+- Gestion des **utilisateurs**, modération des inscriptions et **codes d'invitation**
+- **Points de rencontre**, calendrier et **alertes**
+- Annuaire **artisans**, **catégories de services**, **tourisme** et **manifestations** locales
+
+> Deux briques d'un même produit, du mobile terrain au back-office web.
+
+[![Huva Tech](https://img.shields.io/badge/Développé_chez-huva--tech.com-F97316?style=flat&logoColor=white)](https://huva-tech.com)
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:F97316,100:FACC15&height=3)
+
+### 🎓 Formations
+
+**Holberton School** — Développeur Web / Web Mobile · *RNCP 37674 (Bac+2)*
+<br>
+**Liora** (ex-DataScientest) — Data Analyst ✅ → Data Product Manager · *RNCP 39591 (Bac+5)*
+
+<details>
+<summary>📚 Détail des certifications</summary>
+
+<br>
+
+**Data Analyst — 7 sprints validés ✅**
+- Python pour l'analyse de données · Statistiques exploratoires
+- DataViz (Matplotlib, Seaborn) · Bonnes pratiques
+- Bases de données & SQL · APIs de données
+- Business Intelligence (Power BI, Looker Studio)
+- Cloud & SQL avancé
+- Analyse web & text mining
+- Machine Learning (scikit-learn)
+
+*Certifs consultables dans le dossier [`/Data_Scientest`](https://github.com/ValentinCA28/ValentinCA28/tree/main/Data_Scientest).*
+
+</details>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:F97316,100:FACC15&height=3)
+
+### 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/?username=ValentinCA28&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinCA28&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
+
+<!-- Calendrier de contributions 3D isométrique — généré par .github/workflows/profile-3d.yml
+     (l'image apparaît après le 1er run de l'action, qui commite le dossier profile-3d-contrib/) -->
+<img src="https://raw.githubusercontent.com/ValentinCA28/ValentinCA28/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Calendrier de contributions 3D isométrique"/>
 
 
-**Actuellement** : React, Node.js, TypeScript, Tailwind  
-**Intéressé par** : IA, Web3, automation, outils dev  
+</div>
 
-
-### 🛠️ Tech Stack
-
-**Frontend & Backend**  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-
-**Data Science, Visualisation & Outils**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-
-### Etudes en cours
-J'ai décidé d'associer le progamme d'Holberton afin de renforcer mes connaisances en code pour compléter mes études en Data Analyst / Business Analyst. 
-
-L’objectif : acquérir une vraie culture dev et une solide maîtrise du code (C, Python, bases de données, back-end, DevOps, Git, Linux…) pour être plus autonome, mieux comprendre les pipelines techniques et pouvoir construire moi-même les outils dont j’ai besoin.<br><br>
-
-[![Holberton School - Développeur Web / Web Mobile](https://img.shields.io/badge/HOLBERTON%20SCHOOL-D%C3%A9veloppeur%20Web%20%2F%20Web%20Mobile-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=c41e3a&color=36393f)](https://www.holbertonschool.fr/)
-
-**Description** :  
-Lors du premier sprint, plongez dans les fondamentaux : programmation en C et Unix, algorithmes, graphique, reverse engineering et protocoles de sécurité.  
-
-Le sprint suivant vous fait découvrir les langages de haut niveau, les bases de données et le front-end, avant de concevoir votre première application web complète.  
-
-Enfin, le dernier sprint met l'accent sur l'automatisation, l'évolutivité et les standards industriels. À la fin de la formation, vous maîtrisez le développement web, l'algorithmie et la gestion de projets.
-
-**Techno** : Shell, C, Linux, Python, HTML, CSS, SQL, MySQL, JavaScript, DevOps, Jenkins, Ansible, Docker. Outils : Emacs, Vi, Git.
-
-- **Sprint en cours** : Fondamentaux de la programmation
-- **Sprint à venir** : Développement web et bases de données
-- **Sprintsà venir** : Automatisation et projet final
-
-**Objectif final** : Titre RNCP 37674 niveau 5 
-→ [Développeur web & web mobile](https://www.francecompetences.fr/recherche/rncp/37674/)
-
-*Type d'emplois accessibles :  
-Développeur web full-stack - Développeur mobile - Intégrateur web - Développeur front-end / back-end - Chef de projet web*<br><br>
-
-
-[![Liora - Data Analyst](https://img.shields.io/badge/LIORA-DATA%20ANALYST-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NyA4QzE0LjY2NyA0LjY4NiAxMi4zMTQgMi4zMzMzIDkgMi4zMzMzQzUuNjg2NyAyLjMzMzMgMy4zMzMzIDQuNjg2IDMuMzMzIDhDMi4xNDYgOCAyIDguMTQ2IDAgOEMwIDEyLjMxNCAyLjM1NCAxNC42NjcgNi42NjcgMTQuNjY3QzYuNjY3IDE1LjE4NiA2LjkzMyAxNS41MzMgNy4zMzMzIDE1Ljc4N0M3LjczMzMgMTYuMDMzIDguMTMzMyAxNi4xNiA4LjY2NjcgMTYuMTYgOS4yIDkuNTMzMyAxMC4xMzMgMTYuMTYgMTAuNjY3IDE2LjE2QzExLjIgMTYuMTYgMTEuNiAxNi4wMzMgMTIuMDY3IDE1Ljc4N0MxMi41MzMgMTUuNTMzIDEyLjggMTUuMTg2IDEyLjggMTQuNjY3QzE0LjY2NyAxNC42NjcgMTQuNjY3IDguNjY3IDE0LjY2NyA4WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&labelColor=e67e22&color=36393f)](https://liora.io/formation/data-ia/data-analyst)
-
-*(anciennement DataScientest)*
-
-- **Bloc en cours** : [Data Analyst](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/AUG25%20PP%20CDA%20-%20Parcours%20Pédagogique.pdf) ✅ (7 sprints)
-- **Blocs à venir** : [Data Product Manager](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/39591-FR_Syllabus%2BData%2BProduct%2BManager%2B(Business%2BAnlayst)_230925.pdf) • [Marketing Digital Data & IA](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/FR_Syllabus%2BMarketing%2BDigital%2BData%2B%26%2BIA_02092025.pdf)
-
-
-**Objectif final** : titre RNCP 39591 niveau 7 – Bac+5
-→ [Manager en data marketing](https://www.francecompetences.fr/recherche/rncp/39591/)
-
-*Type d'emplois accessibles :
-Marketing Data Analyst - Business Analyst - Chef de projet Data - Consultant Data / Consultant BI - Manager Data*
-
-
-
-### Soutenance
-
-**Temps de Réponse de la Brigade des Pompiers de Londres**
-
-L’objectif de ce projet est d’analyser et/ou d’estimer les temps de réponse et de mobilisation de la Brigade des Pompiers de Londres. La brigade des pompiers de Londres est le service d'incendie et de sauvetage le plus actif du Royaume-Uni  et l'une des plus grandes organisations de lutte contre l'incendie et de sauvetage au monde.
-
-Réalisation pour appuyer ma soutenance Data Analyst (données géospatiales, visualisations interactives en Leaflet.js)<br>
-
-[![Carte interactive](https://img.shields.io/badge/Carte_interactive-🔍-blue?style=flat&logo=leaflet&logoColor=white)](https://valentinca28.github.io/Data/)  
-*(Source code : [github.com/ValentinCA28/Data](https://github.com/ValentinCA28/Data))*
-
-*Source : https://data.london.gov.uk/dataset/*
-
-
-
-### Parcours Data Analyst — Sprints
-
-✅ **Prérequis**
-- [Premiers pas sur la plateforme DataScientest](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Premiers%20pas%20sur%20la%20plateforme%20DataScientest.pdf)
-- [Introduction à l'analyse des données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20%C3%A0%20l%27analyse%20des%20donn%C3%A9es.pdf)
-
-✅ **Sprint 1 : Programmer avec Python**
-- [Python pour l'Analyse de Données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Python%20for%20Data%20Analysis.pdf)
-- [Statistiques Exploratoires avec Python](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Exploratory%20Satistics%20with%20Python.pdf)
-
-✅ **Sprint 2 : DataViz**
-- [DataViz Bonnes Pratiques](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Data%20Visualization%20and%20Best%20Practices.pdf)
-- [DataViz avec Matplotlib](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Matplotlib.pdf)
-- [DataViz avec Seaborn](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20Visualization%20with%20Seaborn.pdf)
-
-✅ **Sprint 3 : Base de données**
-- [Introduction aux Bases de Données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Introduction%20to%20Databases%20for%20Data%20Analyst.pdf)
-- [Langage SQL](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/SQL%20for%20Data%20Science.pdf)
-- [Fondamentaux des APIs de données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Data%20API%20Fundamentals.pdf)
-
-✅ **Sprint 4 : Business Intelligence**
-- [Introduction Business Intelligence](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Introduction%20to%20Business%20intelligence.pdf)
-- [Power BI](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Power%20Bi.pdf)
-- [Looker Studio](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Looker%20Studio.pdf)
-- [Google Sheets](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Google%20Sheets.pdf)
-
-✅ **Sprint 5 : Bases de données avancées**
-- [Les bases du cloud pour l'analyste de données](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Les%20bases%20du%20cloud%20pour%20l%27analyse%20de%20donn%C3%A9es.pdf)
-- [Approfondissement SQL](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20SQL%20Deepening.pdf)
-
-✅ **Sprint 6 : Analyse du Web et du texte**
-- [Introduction à l'analyse du web et du texte](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Introduction%20to%20web%20and%20text%20analysis.pdf)
-- [Web Analytics](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Web%20Analytics.pdf)
-- [Text Mining](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Text%20Mining%20for%20Data%20Analysts.pdf)
-
-✅ **Sprint 7 : Machine Learning**
-- [Machine Learning avec sklearn](https://github.com/ValentinCA28/ValentinCA28/blob/main/Data_Scientest/Liora%20-%20Machine%20Learning%20with%20sklearn.pdf)
-
-*Toutes les certifications sont validées et vérifiables via les liens directs ci-dessus*
-
-### Projets du moment
-<!-- À toi de choisir 3-4 repos que tu veux mettre en avant -->
-[![holbertons](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCA28&repo=holbertons&theme=dark)](https://github.com/ValentinCA28/holbertons)
-[![Rexiaa](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCA28&repo=Rexiaa&theme=dark)](https://github.com/ValentinCA28/Rexiaa)
-
-
-→ Contact : valentin.planchon@yahoo.fr
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:F97316,100:06B6D4&height=120&section=footer)
